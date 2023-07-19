@@ -2,3 +2,4 @@ streamlit
 langchain
 google-serp-api
 google-generativeai
+wikipedia
